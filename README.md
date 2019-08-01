@@ -3,7 +3,7 @@ Feature and new tools on Overture's roadmap
 
 # Documentation
 
-## Genomic Data Management System Documentation 
+## Genomic Data Management System  
 Song: https://song-docs.readthedocs.io/en/develop/introduction.html
 
 Score:https://score-docs.readthedocs.io/en/latest/introduction.html#
